@@ -52,7 +52,7 @@ header{
 }
 ```
 
-![这是效果图](images/float.png)
+![这是效果图](/images/float.png)
 两个子元素 div 加上了 float:left 之后，它们就脱离了文档流，成为了浮动元素，这时候父元素 header 的高度就为 0 了，因为它没有内容了，所以一定要加上
 
 ```CSS
@@ -281,7 +281,7 @@ CSS 代码如下
 }
 ```
 
-![最后的效果图如下](/../../static/images/grid.png)
+![最后的效果图如下](/images/grid.png)
 
 从上面的代码和效果图可以看出，
 
