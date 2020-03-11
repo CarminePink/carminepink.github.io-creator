@@ -21,7 +21,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   languageCode = "zh-cn"
 
 [author]                  # essential                     # 必需
-  name = "xianmin"
+  name = "CarminePink"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -32,22 +32,8 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   name = "This is Home"
   weight = 10
   identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
+  url = "https://carminepink.xyz/"
+
 [[menu.main]]
   name = "external-link"
   weight = 50
